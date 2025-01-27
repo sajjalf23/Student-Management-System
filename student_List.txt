@@ -1,0 +1,3 @@
+fatima 2 19 F 90
+maham 3 20 F 98
+Talha 4 20 M 93
